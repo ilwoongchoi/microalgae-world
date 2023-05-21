@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Homepage</title>
+  </head>
+  <body>
+    <table style="width: 268px; height: 50px; text-align: left; margin-left: auto; margin-right: auto;"
+      border="1">
+      <tbody>
+        <tr>
+          <td style="text-align: center; vertical-align: middle; background-color: #ffcc00;"><span
+              style="color: red;">Microalgae World</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <table style="width: 576px; height: 314px;" border="1">
+      <tbody>
+        <tr>
+          <td style="width: 62.2px; background-color: #009900; text-align: center;"><img
+              src="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/Microalgae-2000x1200.jpg"
+              alt="" style="width: 136px; height: 81px;"><br>
+            <br>
+            Hompage<br>
+            <br>
+            <a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/Introduction%20to%20microalge.html">Introduction
+              to microalgae</a><br>
+            <br>
+            Types of microalgae<br>
+            <br>
+            Microalgae growth medium<br>
+            <br>
+            Microalgae websites</td>
+          <td style="width: 95.2px; background-color: #009900;"><b>This is a
+              website made to introduce Microalgae to the public</b></td>
+          <td style="width: 95.2px; background-color: #009900;"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+    </p>
+  </body>
+</html>

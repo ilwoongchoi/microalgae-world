@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Microalgae websites</title>
+  </head>
+  <body>
+    <table style="width: 609px; height: 28px; text-align: left; margin-left: auto; margin-right: auto;"
+      border="1">
+      <tbody>
+        <tr>
+          <td style="text-align: center; vertical-align: middle; background-color: white;">Microalgae
+            websites</td>
+        </tr>
+      </tbody>
+    </table>
+    <table style="width: 1028px; height: 457px;" border="1">
+      <tbody>
+        <tr>
+          <td style="width: 156.867px; text-align: center; vertical-align: top; background-color: white;"><img
+              src="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/chlamydomonas.jpeg"
+              alt="" style="width: 257px; height: 144px;"><br>
+            <br>
+            <a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/Microalgae%20websites.html">Homepage</a><br>
+            <br>
+            <a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/Introduction%20to%20microalge.html">Introduction
+              to microalgae<br>
+            </a><br>
+            <a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/Types%20of%20microalgae.html">Types
+              of microalgae<br>
+            </a><br>
+            <a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/Microalgae%20growth%20medium.html">Microalgae
+              growth medium</a><br>
+            <br>
+            <a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/Microalgae%20website.html">Microalgae
+              websites</a></td>
+          <td style="width: 493.867px; text-align: left; vertical-align: top; background-color: white;">Here,
+            I would like to list some websites that may help you deepen the
+            understanding about microalgae, or may help you actually cultivate
+            different types of microalgae.<br>
+            <br>
+            <div style="margin-left: 40px;"><a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/AlgaeBase%20__%20Listing%20the%20World%E2%80%99s%20Algae.html">https://www.algaebase.org/
+                </a></div>
+            <div style="margin-left: 40px;"><br>
+            </div>
+            <div style="margin-left: 40px;"><a href="file:///C:/Users/%EC%B5%9C%EC%9D%BC%EC%9B%85/Documents/Microalgae%20website/UTEX%20Culture%20Collection%20of%20Algae%20at%20UT-Austin.html">https://utex.org/</a></div>
+            <div style="margin-left: 40px;"><br>
+            </div>
+            <div style="margin-left: 40px;"><a href="https://www.atcc.org/">https://www.atcc.org/</a></div>
+            <div style="margin-left: 40px;"><br>
+            </div>
+            <div style="margin-left: 40px;"><br>
+            </div>
+          </td>
+          <td style="width: 170.867px;"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="text-align: center;"><br>
+    </p>
+  </body>
+</html>
